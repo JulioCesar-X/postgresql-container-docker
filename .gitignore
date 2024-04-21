@@ -1,0 +1,5 @@
+# Arquivos de banco de dados
+*.bak
+
+# Diretórios de dados do PostgreSQL
+data/
